@@ -44,10 +44,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gfajardo32/count.svg?"  />
-</div>
+
 
 ###
