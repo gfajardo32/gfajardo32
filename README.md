@@ -25,7 +25,14 @@ I enjoy backend development, system design, and anything that pushes me to think
 ### 🧠 Skills
 
 **Languages:**  
-JavaScript • Python • Java • C • C++ • Ruby • OCaml • SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++ • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="20"/> OCaml • 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL
 
 **Core Skills:**  
 Backend development • Databases • Algorithms • APIs • System design fundamentals
@@ -33,12 +40,9 @@ Backend development • Databases • Algorithms • APIs • System design fund
 **Tools & Technologies:**  
 Git • GitHub • Vercel • Linux • Docker (learning) • VS Code
 
----
-
 ### 📂 Featured Projects
 
-- 🔐 **Supermarket DB System** — A team-based SQL + Python project with real data, inventory logic, and full documentation.  
-- 🎮 **21-Card Trick (Python)** — Interactive CLI card trick using logic-based selection rounds.  
+- 🔐 **Supermarket DB System** — A team-based SQL + Python project with real data, inventory logic, and full documentation.    
 - 🌐 **Vercel-Hosted GitHub Stats Instance** — Fully self-hosted GitHub analytics API with custom token authentication.
 
 More projects here 👉 [github.com/gfajardo32](https://github.com/gfajardo32)
