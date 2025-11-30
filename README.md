@@ -5,15 +5,15 @@
 <br clear="both">
 
 <div align="center">
-  <img 
-    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" 
-    height="150" 
+  <img
+    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&v=1"
+    height="150"
     alt="GitHub Stats"
   />
-  
-  <img 
-    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-    height="150" 
+
+  <img
+    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&v=1"
+    height="150"
     alt="Top Languages"
   />
 </div>
