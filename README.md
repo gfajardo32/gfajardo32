@@ -1,67 +1,105 @@
-## Hi 👋 I'm Guido Fajardo — Software Engineer
+<!-- HEADER / TITLE -->
+<h2 align="center">Hi 👋 I'm <strong>Guido Fajardo</strong></h2>
+<h3 align="center">Software Engineer • Computer Science Student</h3>
 
-I'm a Computer Science student and software engineer who loves building things that actually work.  
-I enjoy backend development, system design, and anything that pushes me to think deeper and solve real problems.
+<p align="center">
+  I build backend systems, tools, and projects that actually work.  
+  I enjoy databases, APIs, systems thinking, and solving real problems with clean code.
+</p>
 
 ---
 
-### 🚀 GitHub Stats
+## 🚀 GitHub Overview
 
-<div align="center">
-  <img
-    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&v=2"
-    height="150"
-    alt="GitHub Stats"
+<p align="center">
+  <img 
+    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&v=3"
+    height="160"
   />
-  <img
-    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&v=2"
-    height="150"
-    alt="Top Languages"
+  <img 
+    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=330&langs_count=6&theme=dracula&hide_border=true&v=3"
+    height="160"
   />
-</div>
+</p>
 
 ---
 
-### 🧠 Skills
+## 🧠 Skills & Technologies
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++ • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="20"/> OCaml • 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL
+### **Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22"/> Java •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22"/> C •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++ •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="22"/> Ruby •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="22"/> OCaml •
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> SQL
+</p>
 
-**Core Skills:**  
-Backend development • Databases • Algorithms • APIs • System design fundamentals
+### **Core Skills**
+- Backend development  
+- APIs & system design fundamentals  
+- Databases & query optimization  
+- Algorithms & problem solving  
 
-**Tools & Technologies:**  
-Git • GitHub • Vercel • Linux • Docker (learning) • VS Code
-
-### 📂 Featured Projects
-
-- 🔐 **Supermarket DB System** — A team-based SQL + Python project with real data, inventory logic, and full documentation.    
-- 🌐 **Vercel-Hosted GitHub Stats Instance** — Fully self-hosted GitHub analytics API with custom token authentication.
-
-More projects here 👉 [github.com/gfajardo32](https://github.com/gfajardo32)
+### **Tools**
+Git • GitHub • Vercel • Linux • VS Code • Docker (learning)
 
 ---
 
-### 📫 Connect with Me
+## 📂 Featured Projects
 
-<div align="left">
+### 🔐 **Supermarket DB System**  
+**Tech:** Python · SQLite · SQL  
+Real supermarket structure: products, branches, inventory logic, and reusable queries.
+
+- Normalized relational schema  
+- Cleaner query layer for real operations  
+- CLI for testing and fetching data  
+- Built for future extension (e.g., web UI)  
+🔗 *Repo coming soon*
+
+---
+
+### 🌐 **Self-Hosted GitHub Stats**  
+**Tech:** Node.js · Vercel  
+Self-hosted instance of `github-readme-stats` running on your own Vercel deployment.
+
+- Configured secure token access  
+- API-cached for reliability  
+- Clean integration with your profile  
+🔗 [Base Project](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📄 Resume
+
+👉 **Download Resume (PDF)**  
+*(Place your resume file in the repo as `resume.pdf`)*  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/guido-fajardo-b76833231" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&style=for-the-badge" height="32"/>
   </a>
   <a href="https://discord.com/users/gmfg32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&style=for-the-badge" height="32"/>
   </a>
   <a href="mailto:guidomanfajardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D44638&style=for-the-badge" height="32"/>
   </a>
   <a href="https://www.instagram.com/guidofajardo_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="32"/>
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>“Always building, always learning.”</em>
+</p>
