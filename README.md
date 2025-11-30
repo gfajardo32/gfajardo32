@@ -1,62 +1,63 @@
-<h2 align="left">Hi 👋! My name is Guido Fajardo and I'm a Software Engineer!</h2>
+## Hi 👋 I'm Guido Fajardo — Software Engineer
 
-###
+I'm a Computer Science student and software engineer who loves building things that actually work.  
+I enjoy backend development, system design, and anything that pushes me to think deeper and solve real problems.
 
-<br clear="both">
+---
+
+### 🚀 GitHub Stats
 
 <div align="center">
   <img
-    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&v=1"
+    src="https://gfajardo32github-readme-stats.vercel.app/api?username=gfajardo32&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&v=2"
     height="150"
     alt="GitHub Stats"
   />
-
   <img
-    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&v=1"
+    src="https://gfajardo32github-readme-stats.vercel.app/api/top-langs?username=gfajardo32&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&v=2"
     height="150"
     alt="Top Languages"
   />
 </div>
 
-###
+---
+
+### 🧠 Skills
+
+**Languages:**  
+JavaScript • Python • Java • C • C++ • Ruby • OCaml • SQL
+
+**Core Skills:**  
+Backend development • Databases • Algorithms • APIs • System design fundamentals
+
+**Tools & Technologies:**  
+Git • GitHub • Vercel • Linux • Docker (learning) • VS Code
+
+---
+
+### 📂 Featured Projects
+
+- 🔐 **Supermarket DB System** — A team-based SQL + Python project with real data, inventory logic, and full documentation.  
+- 🎮 **21-Card Trick (Python)** — Interactive CLI card trick using logic-based selection rounds.  
+- 🌐 **Vercel-Hosted GitHub Stats Instance** — Fully self-hosted GitHub analytics API with custom token authentication.
+
+More projects here 👉 [github.com/gfajardo32](https://github.com/gfajardo32)
+
+---
+
+### 📫 Connect with Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30" alt="ocaml logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/guido-fajardo-b76833231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/guido-fajardo-b76833231" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://discord.com/users/gmfg32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:guidomanfajardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.instagram.com/guidofajardo_?igsh=ZXlsNzNhZnZhYWpj&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.instagram.com/guidofajardo_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
-###
