@@ -85,16 +85,16 @@ Self-hosted instance of `github-readme-stats` running on your own Vercel deploym
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guido-fajardo-b76833231" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="32"/>
   </a>
   <a href="https://discord.com/users/gmfg32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="32"/>
   </a>
   <a href="mailto:guidomanfajardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D44638&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white&style=for-the-badge" height="32"/>
   </a>
   <a href="https://www.instagram.com/guidofajardo_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="32"/>
   </a>
 </p>
 
